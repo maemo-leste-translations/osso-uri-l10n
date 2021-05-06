@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-uri 20081117171224\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.11.17 17:12+0200\n"
+"PO-Revision-Date: 2008.11.17 17:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "uri_link_add_to_calendar"
+msgstr "Lägg till i kalender"
+
+msgid "uri_link_add_to_contacts"
+msgstr "Lägg till i Kontakter"
+
+msgid "uri_link_compose_email"
+msgstr "Nytt e-postmeddelande"
+
+msgid "uri_link_copy_link_location"
+msgstr "Kopiera länkplats"
+
+msgid "uri_link_error_invalid_protocol"
+msgstr ""
+"Det gick inte att öppna.\n"
+"Adresstypen stöds inte.\n"
+"%s"
+
+msgid "uri_link_error_missing_protocol"
+msgstr ""
+"Det gick inte att öppna.\n"
+"Ogiltig adress."
+
+msgid "uri_link_geo"
+msgstr "Visa plats"
+
+msgid "uri_link_make_call"
+msgstr "Samtal"
+
+msgid "uri_link_open_link"
+msgstr "Öppna länk"
+
+msgid "uri_link_play"
+msgstr "Spela"
+
+msgid "uri_link_save_target_as"
+msgstr "Spara mål som"
+
+msgid "uri_link_start_new_chat"
+msgstr "Chatt"
+
+msgid "uri_link_start_new_sms"
+msgstr "SMS"
+
+msgid "uri_link_subscribe"
+msgstr "Prenumerera"

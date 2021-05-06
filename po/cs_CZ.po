@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-uri 20081117171224\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.11.17 17:12+0200\n"
+"PO-Revision-Date: 2008.11.17 17:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "uri_link_add_to_calendar"
+msgstr "Přidat do kalendáře"
+
+msgid "uri_link_add_to_contacts"
+msgstr "Přidat do kontaktů"
+
+msgid "uri_link_compose_email"
+msgstr "Nová e-mailová zpráva"
+
+msgid "uri_link_copy_link_location"
+msgstr "Kopírovat umístění odkazu"
+
+msgid "uri_link_error_invalid_protocol"
+msgstr ""
+"Nelze otevřít.\n"
+"Nepodporovaný typ adresy.\n"
+"%s"
+
+msgid "uri_link_error_missing_protocol"
+msgstr ""
+"Nelze otevřít.\n"
+"Neplatná adresa."
+
+msgid "uri_link_geo"
+msgstr "Ukázat polohu"
+
+msgid "uri_link_make_call"
+msgstr "Hovor"
+
+msgid "uri_link_open_link"
+msgstr "Otevřít odkaz"
+
+msgid "uri_link_play"
+msgstr "Přehrát"
+
+msgid "uri_link_save_target_as"
+msgstr "Uložit cíl jako"
+
+msgid "uri_link_start_new_chat"
+msgstr "Chat"
+
+msgid "uri_link_start_new_sms"
+msgstr "Zpráva SMS"
+
+msgid "uri_link_subscribe"
+msgstr "Přihlásit se"

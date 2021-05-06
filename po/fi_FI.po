@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-uri 20081117171224\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.11.17 17:12+0200\n"
+"PO-Revision-Date: 2008.11.17 17:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "uri_link_add_to_calendar"
+msgstr "Lisää kalenteriin"
+
+msgid "uri_link_add_to_contacts"
+msgstr "Lisää yhteystietoihin"
+
+msgid "uri_link_compose_email"
+msgstr "Uusi sähköpostiviesti"
+
+msgid "uri_link_copy_link_location"
+msgstr "Kopioi linkin sijainti"
+
+msgid "uri_link_error_invalid_protocol"
+msgstr ""
+"Ei voi avata.\n"
+"Osoitetyyppiä ei tueta.\n"
+"%s"
+
+msgid "uri_link_error_missing_protocol"
+msgstr ""
+"Ei voi avata.\n"
+"Virheellinen osoite."
+
+msgid "uri_link_geo"
+msgstr "Näytä sijainti"
+
+msgid "uri_link_make_call"
+msgstr "Puhelu"
+
+msgid "uri_link_open_link"
+msgstr "Avaa linkki"
+
+msgid "uri_link_play"
+msgstr "Aloita"
+
+msgid "uri_link_save_target_as"
+msgstr "Tallenna kohde nimellä"
+
+msgid "uri_link_start_new_chat"
+msgstr "Pikaviesti"
+
+msgid "uri_link_start_new_sms"
+msgstr "Tekstiviesti"
+
+msgid "uri_link_subscribe"
+msgstr "Tilaa"

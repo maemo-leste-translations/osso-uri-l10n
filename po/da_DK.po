@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-uri 20081117171224\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.11.17 17:12+0200\n"
+"PO-Revision-Date: 2008.11.17 17:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "uri_link_add_to_calendar"
+msgstr "Tilføj kalender"
+
+msgid "uri_link_add_to_contacts"
+msgstr "Føj til Kontakter"
+
+msgid "uri_link_compose_email"
+msgstr "Ny e-mail-besked"
+
+msgid "uri_link_copy_link_location"
+msgstr "Kopiér linkplacering"
+
+msgid "uri_link_error_invalid_protocol"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Adressetype understøttes ikke.\n"
+"%s"
+
+msgid "uri_link_error_missing_protocol"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Ugyldig adresse."
+
+msgid "uri_link_geo"
+msgstr "Vis placering"
+
+msgid "uri_link_make_call"
+msgstr "Opkald"
+
+msgid "uri_link_open_link"
+msgstr "Åbn link"
+
+msgid "uri_link_play"
+msgstr "Spil"
+
+msgid "uri_link_save_target_as"
+msgstr "Gem som"
+
+msgid "uri_link_start_new_chat"
+msgstr "Chat"
+
+msgid "uri_link_start_new_sms"
+msgstr "Tekstbesked"
+
+msgid "uri_link_subscribe"
+msgstr "Tilmeld"
