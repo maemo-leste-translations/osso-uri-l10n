@@ -1,0 +1,103 @@
+#
+# This file is part of osso-uri-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-uri 20081117171224\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.11.17 17:12+0200\n"
+"PO-Revision-Date: 2010-05-29 22:34+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Menu command
+msgid "uri_link_open_link"
+msgstr "Bağlantı aç"
+
+# Menu command
+msgid "uri_link_play"
+msgstr "Oynat"
+
+# Menu command
+msgid "uri_link_compose_email"
+msgstr "Yeni e-posta mesajı"
+
+# Menu command
+msgid "uri_link_add_to_contacts"
+msgstr "Kişilerime ekle"
+
+# Menu command
+msgid "uri_link_make_call"
+msgstr "Ara"
+
+# Menu command
+msgid "uri_link_start_new_chat"
+msgstr "Anında mesaj"
+
+# Menu command
+msgid "uri_link_start_new_sms"
+msgstr "SMS"
+
+# Menu command
+msgid "uri_link_geo"
+msgstr "Yerini göster"
+
+# Menu command
+msgid "uri_link_copy_link_location"
+msgstr "Bağlantı yerini kopyala"
+
+# Menu command
+msgid "uri_link_save_target_as"
+msgstr "Hedefi kaydet"
+
+# Menu command
+msgid "uri_link_add_to_calendar"
+msgstr "Takvime Ekle"
+
+# Menu command
+msgid "uri_link_subscribe"
+msgstr "Abone ol"
+
+# Information note where %s is the whole URI
+msgid "uri_link_error_invalid_protocol"
+msgstr ""
+"Açılamadı.\n"
+"Adres türü desteklenmiyor.\n"
+"%s"
+
+# Information note
+msgid "uri_link_error_missing_protocol"
+msgstr ""
+"Açılamadı.\n"
+"Geçersiz adres."
