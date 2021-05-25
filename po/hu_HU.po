@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-uri 20081117171224\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.11.17 17:12+0200\n"
+"PO-Revision-Date: 2010-02-01 16:21+0100\n"
+"Last-Translator: Andy1210 <andy1210@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "uri_link_add_to_calendar"
+msgstr "Hozzáadás a naptárhoz"
+
+msgid "uri_link_add_to_contacts"
+msgstr "Hozzáadás a kapcsolatokhoz"
+
+msgid "uri_link_compose_email"
+msgstr "Új e-mail üzenet"
+
+msgid "uri_link_copy_link_location"
+msgstr "Link címének másolása"
+
+msgid "uri_link_error_invalid_protocol"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"A cím típusa nem támogatott.\n"
+"%s"
+
+msgid "uri_link_error_missing_protocol"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Nem megfelelő cím."
+
+msgid "uri_link_geo"
+msgstr "Hely megjelenítése"
+
+msgid "uri_link_make_call"
+msgstr "Hívás"
+
+msgid "uri_link_open_link"
+msgstr "Link megnyitása"
+
+msgid "uri_link_play"
+msgstr "Lejátszás"
+
+msgid "uri_link_save_target_as"
+msgstr "Cél mentése másként"
+
+msgid "uri_link_start_new_chat"
+msgstr "Azonnali üzenet"
+
+msgid "uri_link_start_new_sms"
+msgstr "SMS"
+
+msgid "uri_link_subscribe"
+msgstr "Feliratkozás"
+
