@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-uri 20081117171224\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.11.17 17:12+0200\n"
+"PO-Revision-Date: 2010-04-01 10:57+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "uri_link_add_to_calendar"
+msgstr "إضافة إلى التقويم"
+
+msgid "uri_link_add_to_contacts"
+msgstr "إضافة إلى الأسماء"
+
+msgid "uri_link_compose_email"
+msgstr "رسالة بريد ألكتروني جديدة"
+
+msgid "uri_link_copy_link_location"
+msgstr "نسخ رابط الموقع"
+
+msgid "uri_link_error_invalid_protocol"
+msgstr ""
+"غير قادر على الفتح.\n"
+"العنوان غير مدعوم.\n"
+"%s"
+
+msgid "uri_link_error_missing_protocol"
+msgstr ""
+"غير قادر على الفتح.\n"
+"عنوان خاطئ."
+
+msgid "uri_link_geo"
+msgstr "أظهار الموقع"
+
+msgid "uri_link_make_call"
+msgstr "مكالمة"
+
+msgid "uri_link_open_link"
+msgstr "فتح الرابط"
+
+msgid "uri_link_play"
+msgstr "تشغيل"
+
+msgid "uri_link_save_target_as"
+msgstr "حفظ المسار بإسم"
+
+msgid "uri_link_start_new_chat"
+msgstr "التراسل الفوري"
+
+msgid "uri_link_start_new_sms"
+msgstr "الرسائل القصيرة"
+
+msgid "uri_link_subscribe"
+msgstr "أشتراك"
+
